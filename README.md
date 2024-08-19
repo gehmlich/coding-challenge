@@ -17,6 +17,8 @@ Feel free to use the provided images:
 - Baustoffportal: baywa-baustoffe.png
 - Energieportal: baywa-energie.png
 
+A basic color palette and mobile breakpoints can be found within the index.css
+
 # Landing page elements
 
 ## Top navigation
