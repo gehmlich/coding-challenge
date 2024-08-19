@@ -1,0 +1,12 @@
+/*
+To make things easier, some colours have been prepared as CSS variables. Whether or not you use them as such is up to you.
+*/
+:root {
+  --baywa-color-primary: #0f8345;
+  --baywa-color-primary-hover: #006f3b;
+  --baywa-color-light-grey: #f4f4f4;
+  --baywa-color-grey: #808080;
+  --baywa-color-dark: #333;
+  --baywa-breapoint-small: 400px;
+  --baywa-width-maximum: 1200px;
+}
